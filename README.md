@@ -46,7 +46,7 @@ This project simulates a networked multiplayer Rock-Paper-Scissors game, allowin
 
    Open the solution file `RockPaperScissorsMultiplayer.sln` in Visual Studio.
 
-Restore the NuGet packages and build the solution.
+2. Restore the NuGet packages and build the solution.
 
 ## Usage
 
