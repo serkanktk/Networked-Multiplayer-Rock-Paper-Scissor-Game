@@ -1,4 +1,4 @@
-# Networked-Multiplayer-Rock-Paper-Scissor-Game
+# Networked Multiplayer System with TCP/IP and Asynchronous Processing
 
 Welcome to the Rock-Paper-Scissors Multiplayer Game project! This project features a client-server architecture where multiple players can connect to a server and play the classic Rock-Paper-Scissors game in a networked environment.
 
